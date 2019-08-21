@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Embed Demo</title>
+    {{ js_resources|indent(4)|safe }}
+    {{ css_resources|indent(4)|safe }}
+    {{ plot_script|indent(4)|safe }}
+
+    <style type="text/css">
+    	.bk-canvas-events{/**/}
+    </style>
+  </head>
+  <body style="padding: 20px 350px; background: linear-gradient(black,red);">
+  	
+  	<div style="border-bottom: 2px solid #ddd; background-color: #eee; padding: 15px 25px; width: 550px; position:relative;">
+  		<h2 style="text-align: center; padding: 5px 8px;">DaTaviZ with BokehJs</h2>
+
+	  	<form style=" margin-bottom: 15px;">
+        <label>Catégorie: </label>
+	  		<select id="select">
+	  			<option value="">--------</option>
+	  			<option value="revenu_score">Score & Revenu</option>
+	  			<option value="age_score">Score & Age</option>
+	  			<option value="genre_score">Score & Genre</option>
+	  		</select>
+	  	</form>
+
+	  	
+	    {{ plot_div|indent(4)|safe }}
+  	</div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script type="text/javascript">
+    	$("#select").change(function(){
+    		document.location = "http://127.0.0.1:5000/" + $("#select").val()
+    	})
+    </script>
+  </body>
+</html>
