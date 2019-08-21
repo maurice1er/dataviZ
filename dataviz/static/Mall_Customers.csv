@@ -1,0 +1,201 @@
+id,nom,prenom,genre,age,revenu en ($k),score
+1,adams, denetra c ,Male,19,15,39
+2,adams, tomesha d ,Male,21,15,81
+3,adams, trellany c ,Female,20,16,6
+4,adderley, cynthia s ,Female,23,16,77
+5,addison, crystal l ,Female,31,17,40
+6,adkins, beverly s ,Female,22,17,76
+7,adkins, robin  ,Female,35,18,6
+8,adkins, sophia l ,Female,23,18,94
+9,adley, marquita  ,Male,64,19,3
+10,agaro, sylvia h ,Female,30,19,72
+11,agyei, dorothy k ,Male,67,19,14
+12,al-matteen, zakiyyah n ,Female,35,19,99
+13,albury, crystal r ,Female,58,20,15
+14,alexander, allissia p ,Female,24,20,77
+15,alexander, mahogany t ,Male,37,20,13
+16,blanco, rosemary  ,Male,22,20,79
+17,blankenship, latoysha r ,Female,35,21,35
+18,blocker, tracey l ,Male,20,21,66
+19,blount, sharon j ,Male,52,23,29
+20,blue, jacquita  ,Female,35,23,98
+21,blue, shatoyia s ,Male,35,24,35
+22,boggs, patricia  ,Male,25,24,73
+23,bones, felicia a ,Female,46,25,5
+24,bones, lucille  ,Male,31,25,73
+25,bonneanne, mekayla m ,Female,54,28,14
+26,bovian, tijuana m ,Male,29,28,82
+27,bowers, markita l ,Female,45,28,32
+28,bowles, teneya  ,Male,35,28,61
+29,bowman, eugenia r ,Female,40,29,31
+30,boyd, cheryl r ,Female,23,29,87
+31,boyd, nicole m ,Male,60,30,4
+32,brackins, shamekia n ,Female,21,30,73
+33,bracy, cordera l ,Male,53,33,4
+34,braddock, yalanda  ,Male,18,33,92
+35,bradford, sharicka a ,Female,49,33,14
+36,bradshaw, richelle d ,Female,21,33,81
+37,breeze, sufern  ,Female,42,34,17
+38,breux, fisthnise s ,Female,30,34,73
+39,brewer, natasha  ,Female,36,37,26
+40,brewington, nicole c ,Female,20,37,75
+41,brewster, chrissandra d ,Female,65,38,35
+42,brice, dominique l ,Male,24,38,92
+43,brinson, amethyst f ,Male,48,39,36
+44,brinson, chernece s ,Female,31,39,61
+45,brinson, denice  ,Female,49,39,28
+46,brinson, kimberly  ,Female,24,39,65
+47,britt, gloria j ,Female,50,40,55
+48,britton, valgean  ,Female,27,40,47
+49,broderick, mamie w ,Female,29,40,42
+50,brokenborough, jeanette  ,Female,31,40,42
+51,brooks, debora s ,Female,49,42,52
+52,brooks, ericka l ,Male,33,42,60
+53,brooks, shakera q ,Female,31,43,54
+54,brooks, tabitha l ,Male,59,43,60
+55,brooks, takeya s ,Female,50,43,45
+56,brookshire, chonvandra  ,Male,47,43,41
+57,brothers, latasha m ,Female,51,44,50
+58,breeze, sufern  ,Male,69,44,46
+59,breux, fisthnise s ,Female,27,46,51
+60,brewer, natasha  ,Male,53,46,46
+61,brewington, nicole c ,Male,70,46,56
+62,brewster, chrissandra d ,Male,19,46,55
+63,brice, dominique l ,Female,67,47,52
+64,brinson, amethyst f ,Female,54,47,59
+65,brinson, chernece s ,Male,63,48,51
+66,brinson, denice  ,Male,18,48,59
+67,brinson, kimberly  ,Female,43,48,50
+68,britt, gloria j ,Female,68,48,48
+69,britton, valgean  ,Male,19,48,59
+70,broderick, mamie w ,Female,32,48,47
+71,brokenborough, jeanette  ,Male,70,49,55
+72,brooks, debora s ,Female,47,49,42
+73,brooks, ericka l ,Female,60,50,49
+74,brooks, shakera q ,Female,60,50,56
+75,brooks, tabitha l ,Male,59,54,47
+76,brooks, takeya s ,Male,26,54,54
+77,brookshire, chonvandra  ,Female,45,54,53
+78,goff, kaleigh  ,Male,40,54,48
+79,goins, eloise m ,Female,23,54,52
+80,goldsmith, norgiea v ,Female,49,54,42
+81,gooden, melissa  ,Male,57,54,51
+82,goodman, ashley n ,Male,38,54,55
+83,goodman, gloria j ,Male,67,54,41
+84,gordon, celese s ,Female,46,54,44
+85,gordon, irene  ,Female,21,54,57
+86,gordon, nichole l ,Male,48,54,46
+87,goss, deshana m ,Female,55,57,58
+88,goudou, myrlaine  ,Female,22,57,55
+89,graham, jessica l ,Female,34,58,60
+90,graham, odessa  ,Female,50,58,46
+91,graham, shannon d ,Female,68,59,55
+92,grant, lakeisha s ,Male,18,59,41
+93,grant, lakita s ,Male,48,60,49
+94,grant, patricia  ,Female,40,60,40
+95,grant, tricia  ,Female,32,60,42
+96,graves, jennifer i ,Male,24,60,52
+97,gray, jaime s ,Female,47,60,47
+98,gray, lillie m ,Female,27,60,50
+99,gray, thasa l ,Male,48,61,42
+100,graydon, devanette d ,Male,20,61,49
+101,green, barbara j ,Female,23,62,41
+102,green, chenika m ,Female,49,62,48
+103,green, kimberly m ,Male,67,62,59
+104,green, lakella t ,Male,26,62,55
+105,green, marie  ,Male,49,62,56
+106,green, marilyn  ,Female,21,62,42
+107,green, marion a ,Female,66,63,50
+108,green, odette o ,Male,54,63,46
+109,hill, ronneka s ,Male,68,63,43
+110,hill-shields, lawanda  ,Male,66,63,48
+111,hills, bobbie  ,Male,65,63,52
+112,hills, evelyn s ,Female,19,63,54
+113,hinton, janell d ,Female,38,64,42
+114,hobbs, kathleen w ,Male,19,64,46
+115,hobbs, rosa a ,Female,18,65,48
+116,hodges, gloria a ,Female,19,65,50
+117,hogans, lakevia s ,Female,63,65,43
+118,holley, lashonda v ,Female,49,65,59
+119,hollie, jennifer r ,Female,51,67,43
+120,hollings, sharon a ,Female,50,67,57
+121,hollis, april d ,Male,27,67,56
+122,holloman, jeanie  ,Female,38,67,40
+123,holloway, fannie m ,Female,40,69,58
+124,holmes, april k ,Male,39,69,91
+125,holmes, lacynthia m ,Female,23,70,29
+126,holmes, tyra  ,Female,31,70,77
+127,holsey, latoya d ,Male,43,71,35
+128,holsey, makitta d ,Male,40,71,95
+129,hood, lashanda r ,Male,59,71,11
+130,hopkins, diashekia  ,Male,38,71,75
+131,hopkins, michelle n ,Male,47,71,9
+132,hopps, dominque s ,Male,39,71,75
+133,horton, shozanio v ,Female,25,72,34
+134,hough, sheila d ,Female,31,72,71
+135,house, melinda b ,Male,20,73,5
+136,howard, cherry  ,Female,29,73,88
+137,howard, christine m ,Female,44,73,7
+138,howard, derrise l ,Male,32,73,73
+139,howard, lucretia f ,Male,19,74,10
+140,inman, anecia e ,Female,35,74,72
+141,inmon, latoyia d ,Female,57,75,5
+142,isham, arnesia l ,Male,32,75,93
+143,issac, leshawna m ,Female,28,76,40
+144,ivey, jonbrika d ,Female,32,76,87
+145,ivory, jennifer  ,Male,25,77,12
+146,ivory, omar re d ,Male,28,77,97
+147,jabali, tajiri a ,Male,48,77,36
+148,jackson, akeelah d ,Female,32,77,74
+149,jackson, amanda  ,Female,34,78,22
+150,jackson, andrea h ,Male,34,78,90
+151,jackson, annjanette b ,Male,43,78,17
+152,jackson, asia j ,Male,39,78,88
+153,jackson, baheejah t ,Female,44,78,20
+154,jackson, bertha a ,Female,38,78,76
+155,jackson, breanna l ,Female,47,78,16
+156,jackson, brushaunda c ,Female,27,78,89
+157,jackson, candace k ,Male,37,78,1
+158,jackson, crystal  ,Female,30,78,78
+159,jackson, crystal d ,Male,34,78,1
+160,jackson, felicia b ,Female,30,78,73
+161,jackson, garaya a ,Female,56,79,35
+162,jackson, janice  ,Female,29,79,83
+163,jackson, jennifer n ,Male,19,81,5
+164,jackson, jesharae b ,Female,31,81,93
+165,jackson, keiarra  ,Male,50,85,26
+166,jackson, keisha  ,Female,36,85,75
+167,jackson, lois  ,Male,42,86,20
+168,jackson, martha j ,Female,33,86,95
+169,jackson, maxine  ,Female,36,87,27
+170,jackson, merita  ,Male,32,87,63
+171,jackson, nya s ,Male,40,87,13
+172,jackson, passion l ,Male,28,87,75
+173,jackson, patricia  ,Male,36,87,10
+174,jackson, precious m ,Male,36,87,92
+175,jackson, quinetta r ,Female,52,88,13
+176,jackson, sarah  ,Female,30,88,86
+177,jackson, sarah b ,Male,58,88,15
+178,jackson, shantell n ,Male,27,88,69
+179,jackson, sharon  ,Male,59,93,14
+180,jackson, sherhonda d ,Male,35,93,90
+181,morris, shera c ,Female,37,97,32
+182,morris, venious l ,Female,32,97,86
+183,morton, ariel a ,Male,46,98,15
+184,moscote, balvina  ,Female,29,98,88
+185,mosley, tiarsheka b ,Female,41,99,39
+186,mostiller, shalese n ,Male,30,99,97
+187,moxey, nicole m ,Female,54,101,24
+188,mullins, jerri f ,Male,28,101,68
+189,murphy, kyaira q ,Female,41,103,17
+190,murray, eboni a ,Female,36,103,85
+191,murray, keona  ,Female,34,103,23
+192,murray, khadijah y ,Female,32,103,69
+193,murray, tara  ,Male,33,113,8
+194,murray, wadine  ,Female,38,113,91
+195,murray, kelleen d ,Female,47,120,16
+196,murrell, sherlyn a ,Female,35,120,79
+197,myers, bethany g ,Female,45,126,28
+198,myers, tamara d ,Male,32,126,74
+199,myers, tonya l ,Male,32,137,18
+200,myles, arianne a ,Male,30,137,83
