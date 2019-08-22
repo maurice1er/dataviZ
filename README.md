@@ -1,6 +1,8 @@
 # dataviZ
 
 ######################
+
+
 Source de donnée: kaggle + github(le nom et prenom sont récuperés sur github et fusionner avec les données de vente de kaggle)
 Type de donnée: vente
 colonne:
